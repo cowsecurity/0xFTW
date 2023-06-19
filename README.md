@@ -24,6 +24,7 @@
 - Cyber Security:
   - Web App Penetration Testing.
   - Network Penetration Testing.
+  - SAST,DAST 
   - IOT Penetration Testing
   - OT Penetration Testing
   - OWASP Top 10.
@@ -34,7 +35,7 @@
 - Web: 
   - HTML CSS JavaScript, React, NodeJS and APIs.
 - Other: 
-  - Git n GitHub, Linux, Computer Networks. 
+  - Git and GitHub, Linux, Computer Networks. 
 
 <br/>
 
