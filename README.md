@@ -25,6 +25,7 @@
   - Web App Penetration Testing.
   - Network Penetration Testing.
   - SAST,DAST 
+  - Docker, K8s, CI/CD security
   - IOT Penetration Testing
   - OT Penetration Testing
   - OWASP Top 10.
