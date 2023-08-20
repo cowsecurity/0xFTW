@@ -32,9 +32,9 @@
   - Tools: Burpsuite, Nmap ...
   - Blue Team: Wireshark, Firewall  ... 
 - Languages:
-  - Python, Assembly, Bash, Ruby, and Java.
+  - Python, Go, Javascript, Assembly, Bash, Ruby, and Java.
 - Web: 
-  - HTML CSS JavaScript, React, NodeJS and APIs.
+  - HTML CSS, React, NodeJS, Django and APIs.
 - Other: 
   - Git and GitHub, Linux, Computer Networks. 
 
