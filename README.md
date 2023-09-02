@@ -82,7 +82,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xFTW&count_private=true&theme=dark&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xFTW&theme=dark" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=0xFTW&theme=dark" />
   <img src="https://github-profile-trophy.vercel.app/?username=0xFTW&theme=monokai&row=2&column=-1"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFTW&layout=compact&theme=radical" />
 
